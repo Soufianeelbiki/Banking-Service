@@ -18,9 +18,13 @@ A small Java app to deposit, withdraw, and print your bank statement. It is fast
 
 ## How to run
 
+```bash
+# Clone the repository
 git clone
+# Navigate into the project directory
 cd Banking-Service
+```
 
-compile : mvn clean compile
-run demo : mvn exec:java
-run test : mvn test
+- **Compile :** mvn clean compile
+- **Run Demo :** : mvn exec:java
+- **Run Test :** : mvn test
